@@ -1,4 +1,4 @@
-![Frontend Developer/Designer](https://edcoach.melimu.com/pluginfile.php/54915/course/overviewfiles/Mern-Stack-Program.png?forcedownload=1)
+https://edcoach.melimu.com/pluginfile.php/54915/course/overviewfiles/Mern-Stack-Program.png?forcedownload=1
 ### Hi there 👋, I'm Hafez Risad
 #### Frontend Developer/Designer
 
