@@ -1,7 +1,6 @@
-https://edcoach.melimu.com/pluginfile.php/54915/course/overviewfiles/Mern-Stack-Program.png?forcedownload=1
 ### Hi there 👋, I'm Hafez Risad
 #### Frontend Developer/Designer
-
+![Frontend Developer/Designer](https://edcoach.melimu.com/pluginfile.php/54915/course/overviewfiles/Mern-Stack-Program.png?forcedownload=1)
 
 I’m a Front-End Developer. I have a serious passion for UI effects, animations creative Design & dynamic user experiences. I enjoy working closely with design teams to faithfully translate user focused designs into pixel-perfect websites or applications that run blazing fast. I build interactive websites that run across platforms & devices.
 
