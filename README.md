@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Hafez Risad</h2>
 <h3 align="center">I'm Freelance Frontend Developer/Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=risad212&label=Profile%20views&color=0e75b6&style=flat" alt="risad212" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=risad212&label=Profile%20views&color=0e75b6&style=flat" alt="risad212" /> </p>
 
 - 🔭 I’m currently working on **Fiver/upwork**
 
