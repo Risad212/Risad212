@@ -1,7 +1,4 @@
-![](https://repository-images.githubusercontent.com/437799537/bd2c6298-70dd-4018-a45f-5d5c678ff748)
-
-
-- 🔭 I’m currently working on this page. 
+![](https://miro.medium.com/max/900/0*UqGyYmWCRQnjLzSk.jpg)
 
 
 <h2>Hi 👋, I'm Hafez Risad</h2>
