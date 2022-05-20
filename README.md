@@ -4,19 +4,10 @@
 - 🔭 I’m currently working on this page. 
 
 
-
-
-
-
-
 <h2>Hi 👋, I'm Hafez Risad</h2>
 <h3>I'm Freelance Frontend Developer/Designer</h3>
 
-
-Skills: I’m a Front-End Developer. I have a serious passion for UI effects, animations & creative Design, dynamic user experiences. I enjoy working closely with design teams to faithfully translate user-focussed designs into pixel-perfect websites or applications that run blazing fast. I build interactive websites that run across platforms & devices
-
-- 🔭 I’m currently working on this page. 
-
+I’m a Front-End Developer. I have a serious passion for UI effects, animations & creative Design, dynamic user experiences. I enjoy working closely with design teams to faithfully translate user-focussed designs into pixel-perfect websites or applications that run blazing fast. I build interactive websites that run across platforms & devices
 
 <p> <img src="https://komarev.com/ghpvc/?username=risad212&label=Profile%20views&color=0e75b6&style=flat" alt="risad212" /> </p>
 
