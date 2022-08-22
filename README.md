@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://bd.linkedin.com/in/hafez-risad-9142341b6?original_referer=https%3A%2F%2Fwww.google.com%2F](https://bd.linkedin.com/in/hafez-risad-9142341b6?original_referer=https%3A%2F%2Fwww.google.com%2F)
-
 - 📫 How to reach me **hafez.risad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
