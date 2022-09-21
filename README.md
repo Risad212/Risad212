@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Hafez Risad</h1>
+<h1 align="center">Hi 👋, I'm Hafez Risad</h1>
 <h3 align="center">Freelance Frontend/WordPress Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=risad212&label=Profile%20views&color=0e75b6&style=flat" alt="risad212" /> </p>
