@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/)
 
-- 🤝 I’m looking for help with **React**
-
 - 📫 How to reach me **hafez.risad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
