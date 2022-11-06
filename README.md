@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fiver](https://www.fiverr.com/)
 
-- 🌱 I’m currently learning **WordPress**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/)
 
