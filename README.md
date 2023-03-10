@@ -69,17 +69,5 @@ Responsive website design and develop web applications I have tested different k
 
 <br/>  
 
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=Risad212&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
