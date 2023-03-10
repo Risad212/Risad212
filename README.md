@@ -20,10 +20,10 @@
 
 
 
-### Glad to see you here!  
-web developer (FrontEnd)
+### Nice To See you here  
+
 I am front end developer with experience 
-Responsive website design and develop web applications I have tested a different kinds of technology but mainly I work on JavaScript react CSS bootstrap and any front-based technology  
+Responsive website design and develop web applications I have tested different kinds of technology but mainly I work on JavaScript react CSS bootstrap and any front-based technology  
   
 
 <br/>  
