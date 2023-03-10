@@ -36,12 +36,7 @@ Responsive website design and develop web applications I have tested different k
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
-
-</td><td valign="top" width="100%">
-
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
