@@ -18,28 +18,10 @@
 </a>  
   
 
-
-
 ### Nice To See you!  
 I am front end developer with experience 
 Responsive website design and develop web applications I have tested different kinds of technology but mainly I work on JavaScript react CSS bootstrap and any front-based technology  
-  
-
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- 🌱 I’m currently learning Next.js  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-
-</table>  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -78,20 +60,3 @@ Responsive website design and develop web applications I have tested different k
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Risad212&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Risad212&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
