@@ -20,7 +20,7 @@
 
 
 
-### Glad to see you here!  
+### Nice To See you!  
 I am front end developer with experience 
 Responsive website design and develop web applications I have tested different kinds of technology but mainly I work on JavaScript react CSS bootstrap and any front-based technology  
   
@@ -37,7 +37,7 @@ Responsive website design and develop web applications I have tested different k
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
