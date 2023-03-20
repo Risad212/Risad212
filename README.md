@@ -44,7 +44,8 @@ Responsive website design and develop web applications I have tested different k
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="40" /></a>  
 <a href="https://styled-components.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="40" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a> 
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  
+ 
 </div>  
 
 <br/>  
