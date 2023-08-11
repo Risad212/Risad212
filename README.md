@@ -22,7 +22,6 @@
 I am front end developer with experience 
 Responsive website design and develop web applications I have tested different kinds of technology but mainly I work on JavaScript react CSS bootstrap and any front-based technology  
 <br/>  
-
 ## Languages and Tools  
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="38" /></a>  
