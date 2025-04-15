@@ -18,9 +18,8 @@
 </a>  
   
 
-### Nice To See you!  
-I am front end developer with experience 
-Responsive website design and develop web applications I have tested different kinds of technology but mainly I work on JavaScript react CSS bootstrap and any front-based technology  
+### Welcome to My World of Web  
+Great web experiences aren’t just built—they’re engineered with clarity, simplicity, and purpose  
 <br/>  
 ## Languages and Tools  
 <div align="center">  
