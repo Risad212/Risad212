@@ -1,4 +1,6 @@
 ## Hey 👋, I'm Hafez Risad  
 
 ### Welcome to My World of Web  
-Web Developer currently focused on WordPress plugin development, specializing in PHP, JavaScript, and MySQL. Skilled in building custom features, enhancing core functionality, and improving performance, stability, and usability of WordPress.
+Web Developer focused on WordPress plugin development with PHP, JavaScript, and MySQL. Skilled in building custom features, improving core functionality, and delivering stable and efficient WordPress solutions.
+
+Currently learning how to integrate AI tools into daily development workflows to improve productivity, problem-solving, and development efficiency.
